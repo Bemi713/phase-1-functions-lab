@@ -1,1 +1,7 @@
-// Code your solution in this file!
+sayHi()
+
+function sayHi() {
+    console.log('Hello World')
+}
+
+sayHi()
